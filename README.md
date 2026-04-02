@@ -64,18 +64,3 @@ b. Extract them
 </ol>
 
 and you are good to go.
-
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. 
-Don't forget to give the project a star! Thanks again!
-
-<a href="">Report the Bug</a>
-
-<a href="">Feature requests</a>
-
-
-<!-- CONTACT -->
-[https://github.com/aakash22raj/MERN-Blogging-Website](https://github.com/aakash22raj/MERN-Blogging-Website)
-
